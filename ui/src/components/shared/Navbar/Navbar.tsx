@@ -11,8 +11,6 @@ function Navbar() {
 
 	const isAuthenticated = useIsAuthenticated();
 
-	debugger;
-
 	return (
 		<AppBar position="static">
 			<Toolbar>
